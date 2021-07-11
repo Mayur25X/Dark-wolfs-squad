@@ -1,0 +1,13 @@
+{
+    "manifest_version": 2,
+    "name": "dark_security_scanner",
+    "version": "1.0.0",
+    "description": "security scanner",
+    "browser_action": {
+        "default_icon": "icon.png",
+        "default_popup": "index1.html"
+    },
+    "permissions": [
+        "activeTab"
+    ]
+}
